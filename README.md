@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Heyo 👋
+Im Ricardo, a computer science student with a passion for computer graphics and videogame development.
 <!--
 **RicardoSanPer/RicardoSanPer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🖥️ Skills
+I am currently skilled in the use of Unity 3D for videogame development and OpenGL/WebGL for graphic programming.
+
+I'm also capable with the programming languages C#, Java, Javascritp and Python.
+
+I have dabbled as well in web development and user interface design using HTML, CSS, PHP and React.
+
+## 📖 Currently learning
+I'm in the process of learning Unreal Engine, C++ and many other tools for videogame development.

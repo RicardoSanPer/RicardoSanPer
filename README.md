@@ -22,8 +22,9 @@ I'm also capable with the programming languages C#, Java, Javascritp and Python.
 I have dabbled as well in web development and user interface design using HTML, CSS, PHP and React.
 
 ## 📖 Currently learning
-I'm in the process of learning Unreal Engine and C++ for videogame development.
-Also learning 3ds Max and Maya for 3d modeling and animation, and Houdini for VFX.
+Getting started into Cybersecurity.
+Learning Unreal Engine for game development.
+Learning C++ for general programing as well.
 
 ## 🎨 Hobbies
 I like digital arts such as illustration and 3d modeling. Currently proficient in the use of Clip Studio Paint and Blender.

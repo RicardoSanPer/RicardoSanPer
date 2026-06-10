@@ -1,5 +1,9 @@
-## Heyo 👋
-Im Ricardo, a computer science student with a passion for computer graphics and videogame development.
+## Greetings! I'm Ricardo👋
+I am a computer science graduate, currently working on my thesis project. I specialize in Cybersecurity and I currently hold the Security+, CC and Google Cybersecurity  certifications.
+
+Despite that, my journey in Cybersecurity is just starting, and I am interested in DevSecOps and secure software development!
+
+On the side I am also a hobbyist graphics programer and I'm interested in developing a game sometime in the future.
 <!--
 **RicardoSanPer/RicardoSanPer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,20 +18,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🖥️ Skills
-I am currently skilled in the use of Unity 3D for videogame development and OpenGL/WebGL for graphic programming.
+## 🖥️ Skills and Knowledge
+Programming Languages: C#, C++, Java, Python
+OS: Linux and Windows
+Security: Network security, SOC, software security
 
-I'm also capable with the programming languages C#, Java, Javascritp and Python.
-
-I have dabbled as well in web development and user interface design using HTML, CSS, PHP and React.
+Graphics Programming: OpenGL, WebGL
+Video Game Development: Unity, Godot
+Other Software: Visual Studio, Code, Blender
 
 ## 📖 Currently learning
-Getting started into Cybersecurity.
-Learning Unreal Engine for game development.
-Learning C++ for general programing as well.
+Learning C++ more in-depth, CI/CD pipelines, and server, systems and network administration with the help of a homelab.
+Learning practical cybersecurity through the TryHackMe platform.
 
 ## 🎨 Hobbies
-I like digital arts such as illustration and 3d modeling. Currently proficient in the use of Clip Studio Paint and Blender.
+Digital arts (drawing and 3D modeling), astronomy, videogames, and carnivorous plants.
 
 ## 🐾 Favorite animal
 Ferrets (specifically the Black Footed Ferret)

@@ -20,11 +20,17 @@ Here are some ideas to get you started:
 -->
 ## 🖥️ Skills and Knowledge
 Programming Languages: C#, C++, Java, Python
+
 OS: Linux and Windows
+
 Security: Network security, SOC, software security
 
+
+
 Graphics Programming: OpenGL, WebGL
+
 Video Game Development: Unity, Godot
+
 Other Software: Visual Studio, Code, Blender
 
 ## 📖 Currently learning

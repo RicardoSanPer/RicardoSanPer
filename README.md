@@ -1,23 +1,13 @@
 ## Greetings! I'm Ricardo👋
-I am a computer science graduate, currently working on my thesis project. I specialize in Cybersecurity and I currently hold the Security+, CC and Google Cybersecurity  certifications.
+I am a computer science graduate specialized in Cybersecurity and I currently hold the Security+, CC and Google Cybersecurity certifications.
 
-Despite that, my journey in Cybersecurity is just starting, and I am interested in DevSecOps and secure software development!
+Focused on SOC operations, DevSecOps, secure infrastructure, AI security.
 
-On the side I am also a hobbyist graphics programer and I'm interested in developing a game sometime in the future.
-<!--
-**RicardoSanPer/RicardoSanPer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ Certifications
+- **CompTIA Security+ (SY0-701)** — [Credly](https://www.credly.com/badges/14d75a3f-4ab0-44e2-907a-a35742355752/public_url)
+- **ISC2 Certified in Cybersecurity (CC)** — [Credly](https://www.credly.com/badges/dcd45dba-8233-4bea-a204-1eee66a69f00/public_url)
+- **Google Cybersecurity Professional Certificate** — [Credly](https://www.credly.com/badges/b83c052e-366c-4985-90df-6c7143a7528f/public_url)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## 🖥️ Skills and Knowledge
 Programming Languages: C#, C++, Java, Python
 
@@ -25,20 +15,21 @@ OS: Linux and Windows
 
 Security: Network security, SOC, software security
 
+Other Software: Visual Studio, Code, Docker, Git
 
+## 🧪 What I’m working on
+### TryHackMe
+A cybersecurity learning platform with hands-on labs. I am learning about tools and practices.
 
-Graphics Programming: OpenGL, WebGL
+[My profile](https://tryhackme.com/p/ricsanper99)
 
-Video Game Development: Unity, Godot
+### Write-ups
 
-Other Software: Visual Studio, Code, Blender
+Write-ups about things I learn and do that I consider interesting.
 
-## 📖 Currently learning
-Learning C++ more in-depth, CI/CD pipelines, and server, systems and network administration with the help of a homelab.
-Learning practical cybersecurity through the TryHackMe platform.
+Still working on writing more, however you can check out my [Advent of Code 2025 repository](https://github.com/RicardoSanPer/Advent_Of_Code_2025) where I wrote about the problems I solved.
 
-## 🎨 Hobbies
-Digital arts (drawing and 3D modeling), astronomy, videogames, and carnivorous plants.
+### Self-hosted homelab
+A small home server that I use to practice system administration as well as hosting some services like media streaming, NAS, development tools, etc.
 
-## 🐾 Favorite animal
-Ferrets (specifically the Black Footed Ferret)
+Running Ubuntu 24.04.

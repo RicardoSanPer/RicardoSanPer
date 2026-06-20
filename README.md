@@ -27,9 +27,4 @@ A cybersecurity learning platform with hands-on labs. I am learning about tools 
 
 Write-ups about things I learn and do that I consider interesting.
 
-Still working on writing more, however you can check out my [Advent of Code 2025 repository](https://github.com/RicardoSanPer/Advent_Of_Code_2025) where I wrote about the problems I solved.
-
-### Self-hosted homelab
-A small home server that I use to practice system administration as well as hosting some services like media streaming, NAS, development tools, etc.
-
-Running Ubuntu 24.04.
+Available at my [website](https://ricardosanper.github.io)
